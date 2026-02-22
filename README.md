@@ -112,4 +112,4 @@ Single SKILL.md file. No dependencies, no MCP servers, no scripts.
 
 ---
 
-**TL;DR:** `/audit` skill uses Sequential Thinking branches as independent design reviewers, then cross-validates findings with confidence scores. Catches contradictions, missing edge cases, and logic errors in design docs before you start coding. It's a first filter, not a human replacement. → [SKILL.md on GitHub](https://github.com/arcama-dev/claude-code/blob/main/skills/audit/SKILL.md)
+**TL;DR:** `/audit` skill uses Sequential Thinking branches as independent design reviewers, then cross-validates findings with confidence scores. Catches contradictions, missing edge cases, and logic errors in design docs before you start coding. It's a first filter, not a human replacement.
