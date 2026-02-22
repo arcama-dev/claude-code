@@ -1,6 +1,4 @@
-## Title
-
-**Most people use Sequential Thinking to plan before coding. I use it backwards — to find bugs in plans AFTER writing them.**
+# **Most people use Sequential Thinking to plan before coding. I use it backwards — to find bugs in plans AFTER writing them.**
 
 ---
 
